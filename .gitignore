@@ -46,7 +46,6 @@ build/Release
 
 # Dependency directories
 node_modules/
-build
 
 # Optional npm cache directory
 .npm
@@ -65,3 +64,6 @@ build
 
 # dotenv environment variables file
 .env
+
+
+build
